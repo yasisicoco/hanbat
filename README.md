@@ -36,13 +36,12 @@
     <td align="center"><a href="https://github.com/sojeong32"><b>Sojeong Park</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://designzino.tistory.com/"><b>Jinwoo BLOG</b></a></td>
-    <td align="center"><a href="https://nowag.tistory.com/"><b>Gawon BLOG</b></a></td>
-    <td align="center"><a href="https://millstory.tistory.com/"><b>Miryang BLOG</b></a></td>
-    <td align="center"><a href="https://sojeong-2.tistory.com/2"><b>Sojeong BLOG</b></a></td>
+    <td align="center"><a href="https://designzino.tistory.com/"><b>GGobuk_chip</b></a></td>
+    <td align="center"><a href="https://nowag.tistory.com/"><b>코딩하는 사람</b></a></td>
+    <td align="center"><a href="https://millstory.tistory.com/"><b>mill BLOG</b></a></td>
+    <td align="center"><a href="https://sojeong-2.tistory.com/2"><b>sojeong BLOG</b></a></td>
   </tr>
     <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
